@@ -43,7 +43,7 @@ N/A
 
 ## Link to deployment
 
-[Live site]()
+[Live site](https://gpmike31.github.io/gp360-React-portfolio-demo/)
 
 ## Image of deployment
 
