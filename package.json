@@ -1,7 +1,7 @@
 {
   "name": "website-portfolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/gpmike31/gp360-React-portfolio-demo",
+  "homepage": "https://gpmike31.github.io/gp360-React-portfolio-demo/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
