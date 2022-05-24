@@ -103,15 +103,12 @@ export default function Portfolio(){
                 </div>   
             </div>
             <div className="card w-25 h-75 d-flex flex-column  my-2 mx-1">
-                <img src="./graphics/node-readme-generator-img.PNG" className="card-img-top h-25 d-flex"alt="read me generator"/>
+                <img src="./graphics/node-readme-generator-img.jpg" className="card-img-top h-25 d-flex"alt="read me generator"/>
                 <div className="card-body h-75 p-3">
                     <p>
                     Professional Read Me Generator Using Node.js to input necessary information pertaining to your application. This app with help save time during the initial development process and can be adjusted to add aditional content such as images and badges on top of the app desciption. 
                     </p>
                     <div className="postion-absolute start-50">
-                        <a href="https://note-take-alec.herokuapp.com/notes" target={"_blank"} rel="noreferrer">
-                            <img style={{height:"40px"}} src="./graphics/hyperlinkicon.png" alt="hyperlink icon"/>
-                        </a>
                         <a href="https://github.com/gpmike31/GP360-readme-generator"  target={"_blank"} rel="noreferrer">
                             <img style={{height:"40px",width:"40px"}} src="./graphics/githublogo.png" alt="hyperlink icon"/>
                         </a>
